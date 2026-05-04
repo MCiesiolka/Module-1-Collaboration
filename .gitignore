@@ -1,10 +1,10 @@
 # Python
-*.pyx
+*.pyc
 *~
-__pycache
+__pycache__
 
 # Env
-.env 
+.env
 myvenv/
 venv/
 
@@ -22,11 +22,11 @@ db.sqlite3
 
 # Windows
 Thumbs.db*
-ethumbs*.db
-[Db]esktop.ini
+ehthumbs*.db
+[Dd]esktop.ini
 $RECYCLE.BIN/
 
 # Visual Studio
 .vscode/
-.history
+.history/
 *.code-workspace
